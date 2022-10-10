@@ -16,8 +16,10 @@ Tecnologias que eu uso no meu dia
 <span>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript">    
 </span>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java">    
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java">  
  </span
+ 
+ ![Snake animation](https:github.com/Andersoreeis/Andersonreeis/blob/output/github/contribution-grid-snake.svg)
  
  
  
