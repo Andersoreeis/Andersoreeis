@@ -3,10 +3,11 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
 
 ![Anderson Reis Github Stats](https://github-readme-stats.vercel.app/api?username=andersoreeis&show_icons=true&theme=dracula)
+ <hr>
+Tecnologias que eu uso no meu dia 
+</br> </br>
 
-### Tecnologias que eu uso no meu dia 
-
-<span>
+<span style="display:inline-block;">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">    
  </span>
  <span>
@@ -20,4 +21,3 @@
  
  
  
-Evoluindo cada vez mais😉
